@@ -9,6 +9,7 @@ public class Check {
 		System.out.println("hhhhhhhhhhhhhh");
 
 		System.out.println("kkkkkkkkkkkkk");
+		System.out.println("kkkkkkkkkkkkk");
 	}
 
 }
